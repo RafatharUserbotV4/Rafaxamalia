@@ -1,8 +1,7 @@
 # Theme
-JANGAN DIJUAL BELAKAN YE BWANG !!!
-BUTUH LICENSE/PW CHAT TELE GUA
->> t.me/fadhost <<
+FREE BUAT KALIAN !!
+>> t.me/OsideGirl <<
 
 Comand Run Install Thema
 
-bash <(curl https://raw.githubusercontent.com/RafatharUserbotV4/Rafaxamalia/main/install.sh)
+bash <(curl https://raw.githubusercontent.com/Windaa014/Rafaxamalia/main/install.sh)
