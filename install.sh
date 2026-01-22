@@ -65,9 +65,9 @@ check_token() {
   if [ "$USER_TOKEN" = "alfixbila" ]; then
     echo -e "${GREEN}AKSES BERHASIL${NC}}"
   else
-    echo -e "${GREEN}Buy dulu Gih Ke RafatharCode X Amalia${NC}"
+    echo -e "${GREEN}Buy dulu Gih Ke RafatharCode${NC}"
     echo -e "${YELLOW}TELEGRAM : @RafatharCode${NC}"
-    echo -e "${YELLOW}WHATSAPP : 6285864743922${NC}"
+    echo -e "${YELLOW}WHATSAPP : 6283854772553${NC}"
     echo -e "${YELLOW}HARGA TOKEN : 25K FREE UPDATE JIKA ADA TOKEN BARU${NC}"
     echo -e "${YELLOW}©RafatharCode${NC}"
     exit 1
@@ -456,7 +456,7 @@ while true; do
   echo -e "${BLUE}gggg      gg     ,     ggg      ------------------------  ${NC}"
   echo -e "${BLUE}ggg:     gg.     -   ,ggg       • Telegram : t.me/RafatharCode     ${NC}"
   echo -e "${BLUE} ggg:     ggg._    _,ggg        • Creadit  : RAFATHARCODE ${NC}"
-  echo -e "${BLUE} ggg.    '.'''ggggggp           • Support by RafatharCode X Amalia  ${NC}"
+  echo -e "${BLUE} ggg.    '.'''ggggggp           • Support by RafatharCode  ${NC}"
   echo -e "${BLUE}  'ggg    '-.__                                           ${NC}"
   echo -e "${BLUE}    ggg                                                   ${NC}"
   echo -e "${BLUE}      ggg                                                 ${NC}"
